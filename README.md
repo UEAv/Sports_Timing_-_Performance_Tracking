@@ -2,6 +2,11 @@
 
 A computer vision proof-of-concept system that automates athlete detection, identity tracking, virtual start/finish line crossing detection, elapsed time measurement, and average speed calculation from stationary camera footage.
 
+
+https://github.com/user-attachments/assets/2bd879b3-85de-4aea-8e79-fa134952ddc8
+
+
+
 ---
 
 ## System Architecture
