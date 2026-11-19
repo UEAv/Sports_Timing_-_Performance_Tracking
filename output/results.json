@@ -1,0 +1,22 @@
+{
+    "video_file": "test_video.mp4",
+    "fps": 24.0,
+    "calibration": {
+        "start_line_x": 776,
+        "finish_line_x": 408,
+        "distance_meters": 12.0,
+        "pixels_per_meter": 30.67
+    },
+    "athletes": [
+        {
+            "track_id": 1,
+            "start_frame": 46,
+            "finish_frame": 134,
+            "start_timestamp_sec": 1.917,
+            "finish_timestamp_sec": 5.583,
+            "elapsed_time_sec": 3.667,
+            "avg_speed_mps": 3.27,
+            "avg_speed_kmh": 11.78
+        }
+    ]
+}
